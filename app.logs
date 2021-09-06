@@ -1,0 +1,33 @@
+ping: usage error: Destination address required
+ping: usage error: Destination address required
+ping: usage error: Destination address required
+anbox0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet6 fe80::549b:c8ff:fe78:2b91  prefixlen 64  scopeid 0x20<link>
+        ether 56:9b:c8:78:2b:91  txqueuelen 1000  (Ethernet)
+        RX packets 9  bytes 656 (656.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 25  bytes 3183 (3.1 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp8s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.8.136  netmask 255.255.255.0  broadcast 192.168.8.255
+        inet6 fd64:2315:78dd:9b00:8142:7320:eedc:15b8  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::8f22:423c:3e90:d09f  prefixlen 64  scopeid 0x20<link>
+        ether b4:2e:99:42:ea:35  txqueuelen 1000  (Ethernet)
+        RX packets 176944  bytes 215572745 (205.5 MiB)
+        RX errors 0  dropped 67  overruns 0  frame 0
+        TX packets 104206  bytes 13518746 (12.8 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1691  bytes 135892 (132.7 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1691  bytes 135892 (132.7 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+ping: usage error: Destination address required
+ping: usage error: Destination address required
+ping: usage error: Destination address required
